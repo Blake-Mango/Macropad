@@ -33,3 +33,5 @@ To install:
 1. Put the KB2040 into **UF2 bootloader mode**.  
 2. Drag and drop the `hyperion` firmware file onto the device.  
 3. The board will reboot automatically.
+
+I will soon be makeing a case for this but for now it doesnt have one give me a day or two.
