@@ -34,4 +34,4 @@ To install:
 2. Drag and drop the `hyperion` firmware file onto the device.  
 3. The board will reboot automatically.
 
-I will soon be makeing a case for this but for now it doesnt have one give me a day or two.
+I have made a case but it is very bad i will be making a new case in a day or two just need to look around and see what looks good
