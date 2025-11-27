@@ -4,7 +4,13 @@ A macro pad built for multi platform use with a screen to show mode changes and 
 # PCB Assembly & Firmware
 
 ## Materials
-You will need **all components listed in the Bill of Materials (BOM)** to assemble this board.
+You will need **all components listed in the Bill of Materials (BOM)** to assemble this board. + the 3d printed case.(currrently pretty bad) 
+<img width="651" height="425" alt="Screenshot 2025-11-27 015338" src="https://github.com/user-attachments/assets/63c078a4-65c4-4450-963f-3c04fab646bf" />
+
+### Heres what the PCB should look like
+<img width="1344" height="724" alt="image" src="https://github.com/user-attachments/assets/e1973fcb-5f4b-4169-b055-bce628bd9a85" /> <img width="1200" height="708" alt="image" src="https://github.com/user-attachments/assets/e50b2a68-f1f8-4c48-8773-9dd61e1138da" />
+
+
 
 ---
 
